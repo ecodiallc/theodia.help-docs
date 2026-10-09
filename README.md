@@ -1,4 +1,4 @@
-# Theodia.app Help Docs
+# Theodia Help Docs
 
 | Locale | Native name | File | Size | Version |
 | ------ | ----------- | ---- | ---- | ------- |
