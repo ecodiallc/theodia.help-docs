@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T01:24:15.982Z",
+  "updatedAt": "2026-10-09T01:41:16.351Z",
   "packages": [
     {
       "id": "help-ar",
@@ -9,7 +9,7 @@
       "name": "العربية",
       "locale": "ar",
       "version": "0.1.5-e6952da",
-      "sha256": "241b5ace65bec23575f420ed27a27e38ce7c0f213a36631ad7607108c3086ae3",
+      "sha256": "1409e857fb70eaa4af8d3d6d4e16b2e403d8e6d7aa741ab822a24ec87cb37f38",
       "bytes": 110489
     }
   ]
