@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-09T01:24:15.982Z",
+  "packages": [
+    {
+      "id": "help-ar",
+      "type": "helpDocs",
+      "path": "ar.help.zip",
+      "name": "العربية",
+      "locale": "ar",
+      "version": "0.1.5-e6952da",
+      "sha256": "241b5ace65bec23575f420ed27a27e38ce7c0f213a36631ad7607108c3086ae3",
+      "bytes": 110489
+    }
+  ]
+}
