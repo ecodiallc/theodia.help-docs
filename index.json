@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T23:56:54.636Z",
+  "updatedAt": "2026-10-11T23:58:35.910Z",
   "packages": [
     {
       "id": "help-ar",
@@ -9,7 +9,7 @@
       "name": "العربية",
       "locale": "ar",
       "version": "0.1.5-e6952da",
-      "sha256": "71aebb4018c2751a9b6178310fec92a6ec6d3259f9795e3d2d743894db403f01",
+      "sha256": "14e4de2fdaa5ec4183f81527ebf27744b6d4b60ad0a4e3972ee3f4cd6ff684b4",
       "bytes": 110489
     },
     {
@@ -19,7 +19,7 @@
       "name": "Deutsch",
       "locale": "de",
       "version": "0.1.5-9c83b4d",
-      "sha256": "c3f4a6012ecdb19fda8c91a6ea1dac26d12a7ad7625c58fd72c8ad253c4dae85",
+      "sha256": "f27185129a6ea94c0e1f200ea5507bcb9907ed4183620cb558d94ec17b2677a9",
       "bytes": 81396
     },
     {
@@ -29,7 +29,7 @@
       "name": "Español",
       "locale": "es",
       "version": "0.1.5-b0588d3",
-      "sha256": "c9a53fdde882afa5b0e0a14fc887502510740306a09dd345d170bc145ff15566",
+      "sha256": "26bdce2e9a535a4d5437eb727950b3251b36fdc3f08d8bdcb3ce310157ac795c",
       "bytes": 103220
     },
     {
@@ -39,8 +39,8 @@
       "name": "Français",
       "locale": "fr",
       "version": "0.1.5-19437ae",
-      "sha256": "8db596ad2ddeda16fa268cc514997ca5cd89100ab16047fd4744793ea154891c",
-      "bytes": 108722
+      "sha256": "3962bca1264ef778128637751e4569cbd99a3ed98014f1de543441eb4552b73a",
+      "bytes": 108721
     },
     {
       "id": "help-hi",
@@ -49,7 +49,7 @@
       "name": "हिन्दी",
       "locale": "hi",
       "version": "0.1.5-317778a",
-      "sha256": "8a862ffd23b8c3c2c43a1ff57db5ec7a8dd68002ffc3e911afa08a617b39abbe",
+      "sha256": "90d221ccf811cebec0e9908074b51a80535a3664ec5e11ef058e7e6f202987b1",
       "bytes": 125844
     },
     {
@@ -59,8 +59,18 @@
       "name": "Italiano",
       "locale": "it",
       "version": "0.1.5-b4ed1ae",
-      "sha256": "c78b0a81d7983281908ffb6ea27661a9c779c5cef20c7fea6f2db7215fc554f0",
+      "sha256": "bebf4d89e5c95c127824803d5d36ce740aaf0389bf851ab22be254c506f7be01",
       "bytes": 101570
+    },
+    {
+      "id": "help-pl",
+      "type": "helpDocs",
+      "path": "pl.help.zip",
+      "name": "Polski",
+      "locale": "pl",
+      "version": "0.1.5-6d4d3b9",
+      "sha256": "1b00ffd1e00097f4426578fd21f5afde0d22cad67e2aca3974ab644da9481bd5",
+      "bytes": 107352
     },
     {
       "id": "help-pt",
@@ -69,7 +79,7 @@
       "name": "Português",
       "locale": "pt",
       "version": "0.1.5-cd4ecfe",
-      "sha256": "29ea594f7f14316b09feaea483ccf2c2e4bc7fec2e48adec85f2e5827f54758f",
+      "sha256": "d655bc799d8ba94dcef110174ee585dfa0e470152f1c6e77ea338c830c3a57d2",
       "bytes": 95098
     },
     {
@@ -79,7 +89,7 @@
       "name": "简体中文",
       "locale": "zh-Hans",
       "version": "0.1.5-c0ee769",
-      "sha256": "f8cce8fbf37fbb518627d55aabd8df18f3f9df928794056b360cf06f34b2cd7a",
+      "sha256": "ba47e166c8e69e5b5952bf2544d6f69fc5265392a74321570acb89cc18562f24",
       "bytes": 99462
     },
     {
@@ -89,7 +99,7 @@
       "name": "繁體中文",
       "locale": "zh-Hant",
       "version": "0.1.5-73e5e48",
-      "sha256": "d1baca9e1ade331c286c43715866bfeb525152512d38517079a52d7ae5be7b93",
+      "sha256": "edaf2f2dc569cbeb0dcab7f3fd881580977dd970281c3ff648ca458c5141d677",
       "bytes": 93940
     }
   ]
