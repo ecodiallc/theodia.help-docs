@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T21:38:21.918Z",
+  "updatedAt": "2026-10-11T21:47:43.947Z",
   "packages": [
     {
       "id": "help-ar",
@@ -9,7 +9,7 @@
       "name": "العربية",
       "locale": "ar",
       "version": "0.1.5-e6952da",
-      "sha256": "2731d64575b418c280a3f18347a2249187d0aa6fc12589c6c93b85a5f00789f1",
+      "sha256": "2195e0093cd35d312f839cd3b704c26a6b1452642f43454ec305a89eca242199",
       "bytes": 110489
     },
     {
@@ -19,8 +19,18 @@
       "name": "Español",
       "locale": "es",
       "version": "0.1.5-b0588d3",
-      "sha256": "aa0b438d0245272f7e7b49cd6cf43713284dd42c3ca37f72e8dbc9ddf0d08325",
+      "sha256": "ff8507f656977d326b33cf94c4e6dcaae16df824c645d09becf4c781638baba4",
       "bytes": 103220
+    },
+    {
+      "id": "help-zh-Hans",
+      "type": "helpDocs",
+      "path": "zh-Hans.help.zip",
+      "name": "简体中文",
+      "locale": "zh-Hans",
+      "version": "0.1.5-c0ee769",
+      "sha256": "467b6c1aedc0554627672a092e098d1452386c6f2c791f8a5ef529dd35ba9872",
+      "bytes": 99462
     }
   ]
 }
