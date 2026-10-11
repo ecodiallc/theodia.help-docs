@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T22:35:26.117Z",
+  "updatedAt": "2026-10-11T22:56:19.045Z",
   "packages": [
     {
       "id": "help-ar",
@@ -9,7 +9,7 @@
       "name": "العربية",
       "locale": "ar",
       "version": "0.1.5-e6952da",
-      "sha256": "28e6796c623a70eaf59845c16a658cb63e7bb5b04d9407ff2f5714d90af9ab5c",
+      "sha256": "3ce662251a8ebf9a54bc412b1ee9d40b99a365b98948c7f4c4cf7a6caf8252c1",
       "bytes": 110489
     },
     {
@@ -19,7 +19,7 @@
       "name": "Deutsch",
       "locale": "de",
       "version": "0.1.5-9c83b4d",
-      "sha256": "a9540ff37dd89722c97045ff6774439d66bc51dfc2de62d90950db979e0bbed0",
+      "sha256": "3d44e71ba2633e87568f655252ba906d8295ac5dbbd484db82229a25e8a2cca5",
       "bytes": 81396
     },
     {
@@ -29,7 +29,7 @@
       "name": "Español",
       "locale": "es",
       "version": "0.1.5-b0588d3",
-      "sha256": "ed436c61c8730d23a65b9361e7a03c1056cae847d9651ad42706c518aac2dc4f",
+      "sha256": "afea2eb212e2f0fd92d01d7fbce0972096f4184e3ecd755706331c3e0e352f22",
       "bytes": 103220
     },
     {
@@ -39,8 +39,18 @@
       "name": "Français",
       "locale": "fr",
       "version": "0.1.5-19437ae",
-      "sha256": "55eb46d96d86b82cbabb0b70d6ff42d71048dfd65bff0f05ceb9ea1ecc3b1f6d",
+      "sha256": "b2a52900374df4bfbdf80318d4548b00004c688bf24130c0a962341dca430ce8",
       "bytes": 108722
+    },
+    {
+      "id": "help-it",
+      "type": "helpDocs",
+      "path": "it.help.zip",
+      "name": "Italiano",
+      "locale": "it",
+      "version": "0.1.5-b4ed1ae",
+      "sha256": "3463461a5eba091ec8a8e82e838eab9e572b2c2aaa9d1ba1f971a642d44891bf",
+      "bytes": 101570
     },
     {
       "id": "help-zh-Hans",
@@ -49,7 +59,7 @@
       "name": "简体中文",
       "locale": "zh-Hans",
       "version": "0.1.5-c0ee769",
-      "sha256": "8875ad1785b651e87e26fd86b8ae5b07db92941b62871063e1ec0dbad04083aa",
+      "sha256": "804612ce22c2c58b8dcbf97d85b87f7884a8f49f080367f45ff14f7a09a5d520",
       "bytes": 99462
     },
     {
@@ -59,7 +69,7 @@
       "name": "繁體中文",
       "locale": "zh-Hant",
       "version": "0.1.5-73e5e48",
-      "sha256": "982af329924c1fef9c201f4c02b443efa5d0691082b23442a249bc3f040cf7bc",
+      "sha256": "f5106ca2928e4e4ff7101121b27216bd48cf0920b6c56fd044b96c8366762fc3",
       "bytes": 93940
     }
   ]
