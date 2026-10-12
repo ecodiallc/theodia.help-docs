@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T00:34:08.342Z",
+  "updatedAt": "2026-10-12T01:24:46.160Z",
   "packages": [
     {
       "id": "help-ar",
@@ -9,7 +9,7 @@
       "name": "العربية",
       "locale": "ar",
       "version": "0.1.5-e6952da",
-      "sha256": "f21efd6f02aafcb8401ba39fa160ed787315ccf743e7800eb1ae7c3b469b61e7",
+      "sha256": "8c2d29c51a3b537dd9d7420d1e6d0ab4976942b26d27ca7a51ccddb598b46e56",
       "bytes": 110489
     },
     {
@@ -19,7 +19,7 @@
       "name": "Deutsch",
       "locale": "de",
       "version": "0.1.5-9c83b4d",
-      "sha256": "4a30dcfc119dc082ff607f7862459b14dfea2743ad07ca71987fb28006c6920f",
+      "sha256": "e578c97f626e7da2a53e270448ebecaec6f25dc1e266cf442860d677af1a5a8f",
       "bytes": 81396
     },
     {
@@ -29,7 +29,7 @@
       "name": "Español",
       "locale": "es",
       "version": "0.1.5-b0588d3",
-      "sha256": "fa221ec89dbb84bd5edd0b4e8141dd832a70096cba89572d15358032a01fc5f6",
+      "sha256": "c01f1e655bea3a590c583ed3a40ae7d84449ac18de31a075616b4853eaa9e34a",
       "bytes": 103220
     },
     {
@@ -39,8 +39,8 @@
       "name": "Français",
       "locale": "fr",
       "version": "0.1.5-19437ae",
-      "sha256": "11ce3c5091fc27b21fc73c5fad9efdc61b25d89de5af8d01b97041890a588e64",
-      "bytes": 108720
+      "sha256": "203ceb883a5c56a735439dd495b85859a5a9f9770e443afbcffc26096498b7d5",
+      "bytes": 108722
     },
     {
       "id": "help-hi",
@@ -49,7 +49,7 @@
       "name": "हिन्दी",
       "locale": "hi",
       "version": "0.1.5-317778a",
-      "sha256": "9537a974ae10b856e96d1acba48a76544a4b79f202977bc7ec04ef5509c51e75",
+      "sha256": "18efff72b4bf370cc77ad4fec0009252539d323e7b5630c4d58844d91de65942",
       "bytes": 125844
     },
     {
@@ -59,7 +59,7 @@
       "name": "Italiano",
       "locale": "it",
       "version": "0.1.5-b4ed1ae",
-      "sha256": "058be966102e5c744c4d80fa424dd655699d7916a2a40b756af43bbca586406a",
+      "sha256": "a4e9698545b14fcb5cfc3c89a409a97644c5731d6eba3b7c4017b263846cd2b1",
       "bytes": 101570
     },
     {
@@ -69,7 +69,7 @@
       "name": "Polski",
       "locale": "pl",
       "version": "0.1.5-6d4d3b9",
-      "sha256": "ecfc588084be476644cca870b9d1d09b0657f02adc23d665f9f750f19770a255",
+      "sha256": "ab7f966aa63d879a5214c66b5846b636cdd0bc9848e8ba4d1377e35f0a3a545b",
       "bytes": 107352
     },
     {
@@ -79,8 +79,8 @@
       "name": "Português",
       "locale": "pt",
       "version": "0.1.5-cd4ecfe",
-      "sha256": "81366b10f6db7484bdfc7ced15f80c28771165d3d3b324f110362da1de9c2f44",
-      "bytes": 95099
+      "sha256": "71b705ce5fe70643d7f6095528df156e9872c67c83992b4d9883540d561b8798",
+      "bytes": 95098
     },
     {
       "id": "help-ro",
@@ -89,7 +89,7 @@
       "name": "Română",
       "locale": "ro",
       "version": "0.1.5-19022c6",
-      "sha256": "7bab0f2f2b4edb773b2f69a9799f6b9f682ec206410ebc378cf974cdab7ca613",
+      "sha256": "cdb7600ed0836dd80e86ac90b7180f814102eb4f923387f21aba300f8fc51d4b",
       "bytes": 104863
     },
     {
@@ -99,8 +99,18 @@
       "name": "Русский",
       "locale": "ru",
       "version": "0.1.5-a91c2d2",
-      "sha256": "9e5849804e4703f47320e984fb0e7868b2ff5eeaf5800368165443bbf225b228",
+      "sha256": "c6ff65597306c546357130fe7f40fa46510661b4118a9e581cf6290a4b0f1c72",
       "bytes": 122401
+    },
+    {
+      "id": "help-uk",
+      "type": "helpDocs",
+      "path": "uk.help.zip",
+      "name": "Українська",
+      "locale": "uk",
+      "version": "0.1.5-ea076a1",
+      "sha256": "fb9a8dd7464047b2d1af902bec60825bac00640936aeea4e7b2b0aa4622b568f",
+      "bytes": 125247
     },
     {
       "id": "help-zh-Hans",
@@ -109,7 +119,7 @@
       "name": "简体中文",
       "locale": "zh-Hans",
       "version": "0.1.5-c0ee769",
-      "sha256": "6c284fc63c74752825baae4f5bc2f11020fcab2cb0ea7589ec30c731d0c62718",
+      "sha256": "2e3ac205fed618d3d817c7f3285356520374a7eb807299e6a62ed12862638e13",
       "bytes": 99462
     },
     {
@@ -119,7 +129,7 @@
       "name": "繁體中文",
       "locale": "zh-Hant",
       "version": "0.1.5-73e5e48",
-      "sha256": "071908ee5f458c7478d313498c2ee2f62a1676d271074c63337c9cb06445055f",
+      "sha256": "b8589918485866c69bbdd11ee95e50d6520b4b1c02ccbb275219a8bdda9d8343",
       "bytes": 93940
     }
   ]
