@@ -9,6 +9,7 @@
 | `de` | Deutsch |
 | `el` | Ελληνικά |
 | `es` | Español |
+| `fa` | فارسی |
 | `fr` | Français |
 | `he` | עברית |
 | `hi` | हिन्दी |
