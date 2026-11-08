@@ -3,6 +3,7 @@
 | Locale | Native name |
 | ------ | ----------- |
 | `ar` | العربية |
+| `bn` | বাংলা |
 | `cs` | Čeština |
 | `da` | Dansk |
 | `de` | Deutsch |
