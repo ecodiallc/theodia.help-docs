@@ -11,6 +11,7 @@
 | `es` | Español |
 | `fa` | فارسی |
 | `fr` | Français |
+| `ha` | Hausa |
 | `he` | עברית |
 | `hi` | हिन्दी |
 | `id` | Bahasa Indonesia |
@@ -26,6 +27,8 @@
 | `ru` | Русский |
 | `sv` | Svenska |
 | `sw` | Kiswahili |
+| `ta` | தமிழ் |
+| `te` | తెలుగు |
 | `th` | ไทย |
 | `tl` | Filipino |
 | `tr` | Türkçe |
