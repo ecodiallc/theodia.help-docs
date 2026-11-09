@@ -17,7 +17,9 @@
 | `it` | Italiano |
 | `ja` | 日本語 |
 | `ko` | 한국어 |
+| `mr` | मराठी |
 | `nl` | Nederlands |
+| `pa` | ਪੰਜਾਬੀ |
 | `pl` | Polski |
 | `pt` | Português |
 | `ro` | Română |
@@ -28,6 +30,7 @@
 | `tl` | Filipino |
 | `tr` | Türkçe |
 | `uk` | Українська |
+| `ur` | اردو |
 | `vi` | Tiếng Việt |
 | `zh-Hans` | 简体中文 |
 | `zh-Hant` | 繁體中文 |
